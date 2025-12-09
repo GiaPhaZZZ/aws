@@ -101,4 +101,4 @@ aws logs tail /aws/lambda/storm-prediction --region ap-southeast-1 --follow
 
 ## Summary
 - Before: The `.pth` model file was in the root → Python mistook it for a config `.pth` file → UnicodeDecodeError
-- After: The `.pth` model file is inside `models/` → Python ignores it → Lambda works ✅
+- After: The `.pth` model file is inside `models/` → Python ignores it → Lambda works 

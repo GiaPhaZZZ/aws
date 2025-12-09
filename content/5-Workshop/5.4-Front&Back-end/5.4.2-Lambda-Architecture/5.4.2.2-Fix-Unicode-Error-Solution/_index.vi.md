@@ -100,4 +100,4 @@ aws logs tail /aws/lambda/storm-prediction --region ap-southeast-1 --follow
 
 ## Tóm tắt
 - **Trước**: Model `.pth` ở root → Python nhầm là config file → UnicodeDecodeError
-- **Sau**: Model `.pth` ở `models/` → Python bỏ qua → Lambda hoạt động ✅
+- **Sau**: Model `.pth` ở `models/` → Python bỏ qua → Lambda hoạt động 
