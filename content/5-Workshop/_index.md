@@ -34,7 +34,7 @@ The final platform delivers two core functionalities:
 #### Content
 
 1. [Workshop overview](5.1-Workshop-overview/)
-2. [Data Preparation](5.2-Data_Preparation/)
+2. [Data Preparation](5.2-Data-Preparation/)
 3. [ML Model Training](5.3-ML-Model/)
 4. [Front&Back-End Architect](5.4-Front&Back-end/)
 5. [API](5.5-Platform-API/)

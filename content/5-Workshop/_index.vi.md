@@ -35,7 +35,7 @@ Nền tảng cuối cùng cung cấp hai chức năng cốt lõi:
 #### Nội dung
 
 1. [Tổng quan về workshop](5.1-Workshop-overview/)
-2. [Chuẩn bị dữ liệu](5.2-Data_Preparation/)
+2. [Chuẩn bị dữ liệu](5.2-Data-Preparation/)
 3. [Kiến tạo mô hình ML](5.3-ML-Model/)
 4. [Kiến trúc Front&Back-end](5.4-Front&Back-end/)
 5. [API](5.5-Platform-API/)
