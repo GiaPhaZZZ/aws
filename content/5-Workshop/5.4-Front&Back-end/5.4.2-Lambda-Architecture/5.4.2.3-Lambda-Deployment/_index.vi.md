@@ -1,6 +1,6 @@
 ---
 title : "Triển Khai Lamda"
-date: 2025-09-09
+date: 2025-09-11
 weight : 4 
 chapter : false
 pre : " <b> 5.4.2.3 </b> "
