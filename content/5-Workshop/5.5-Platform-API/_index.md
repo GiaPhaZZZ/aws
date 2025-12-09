@@ -8,16 +8,6 @@ pre : " <b> 5.5. </b> "
 
 # BACK-END API DETAIL DESCRIPTION
 
-## Table of Contents
-
-1. [Introduction](#1-introduction)
-2. [System Architecture](#2-system-architecture)
-3. [Core Features](#3-core-features)
-4. [Technology Stack](#4-technology-stack)
-5. [Project Structure](#5-project-structure)
-6. [API Endpoints](#6-api-endpoints)
-
-
 ## 1. Introduction <a id="1-introduction"></a>
 
 **Weather Backend API** is a RESTful service that provides weather information by integrating with OpenWeatherMap API. The backend serves as a middleware layer between frontend applications and external weather data sources.

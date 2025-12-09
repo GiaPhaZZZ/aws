@@ -8,16 +8,6 @@ pre : " <b> 5.5. </b> "
 
 # MÔ TẢ CHI TIẾT BACK-END API
 
-## Mục lục
-
-1. [Giới thiệu](#1-introduction)
-2. [Kiến trúc hệ thống](#2-system-architecture)
-3. [Tính năng cốt lõi](#3-core-features)
-4. [Công nghệ sử dụng](#4-technology-stack)
-5. [Cấu trúc dự án](#5-project-structure)
-6. [API Endpoints](#6-api-endpoints)
-
-
 ## 1. Giới thiệu <a id="1-introduction"></a>
 
 **Weather Backend API** là một dịch vụ RESTful cung cấp thông tin thời tiết bằng cách tích hợp với OpenWeatherMap API. Backend hoạt động như lớp trung gian giữa ứng dụng frontend và các nguồn dữ liệu thời tiết bên ngoài.
