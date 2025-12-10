@@ -10,6 +10,9 @@ pre: " <b> 2. </b> "
 
 ## Kỹ thuật tự nhận thức trắc địa (Geodesic-Aware Deep Learning) cho dự đoán hướng di chuyển chính xác: Một phương pháp tiếp cận dựa trên kêt hợp "mô phỏng vật lý" và "tăng cường dữ liệu"
 
+### Proposal Document  
+[Xem Proposal Document](https://docs.google.com/document/d/1UNjqnkYfqD67wq76dyOq1YnkjWGnb3eSPsucPVyzihc/edit?usp=sharing)
+
 ### 1. Tóm tắt điều hành  
 
 Dữ liệu chuỗi thời gian đóng vai trò là một trong những dạng biểu diễn thông tin quan trọng nhất trong các ứng dụng khoa học và công nghiệp hiện đại. Nó cần thiết để hiểu các quá trình động như xu hướng kinh tế, mô hình tiêu thụ năng lượng và sự thay đổi khí tượng theo thời gian. Đặc biệt, dự báo thời tiết phụ thuộc mạnh mẽ vào dữ liệu chuỗi thời gian để dự đoán điều kiện khí quyển trong tương lai, quỹ đạo bão và các biến động theo mùa dựa trên dữ liệu lịch sử.

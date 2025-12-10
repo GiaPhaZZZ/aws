@@ -8,7 +8,11 @@ pre: " <b> 2. </b> "
 
 
 # ONLINE PLATFORM FOR TRACKING AND FORECASTING HURRICANE TRAJECTORY
+
 ## Geodesic-Aware Deep Learning for Hurricane Trajectory Prediction: A Physics-Informed and Augmentation-Driven Approach
+
+### Proposal Document  
+[View Proposal Document](https://docs.google.com/document/d/1UNjqnkYfqD67wq76dyOq1YnkjWGnb3eSPsucPVyzihc/edit?usp=sharing)
 
 ### 1. Executive Summary
 
